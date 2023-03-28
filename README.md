@@ -1,5 +1,11 @@
 # GUVI_login_assesment_Rithvikailas
 
+Guvi had given an Assesment to Create a signup page where a user can register, a login page to 
+log in with the necessary details needed during registration.
+Successful login should redirect to a profile page which should 
+contain additional details such as age, dob, contact, etc. The user 
+can update. The webpage should fetch data using Redis and the data should be stored in the local storage. The MySQL should use the prepare Statements, with no simple SQL statements and the styling can be done using Bootstrap.
+
 ## Software Requirement
 
 1. VS code Editer or an equivalent Code Editor
