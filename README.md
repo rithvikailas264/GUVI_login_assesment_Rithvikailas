@@ -39,7 +39,7 @@
 ![image](https://user-images.githubusercontent.com/115399211/228190250-44e1beac-d523-4d03-af94-9c222897ede5.png)
 ### The Signup page is used to store the user's information in the Databases.
 ![image](https://user-images.githubusercontent.com/115399211/228190515-7522f045-41ca-475a-8278-08ccd2ba74fd.png)
-### Once the user registered successfully he will be directed to the Login page.
+### Once the user registered successfully he will be directed to the Login page. And they can enter the registered email and password to see their profile.
 ![image](https://user-images.githubusercontent.com/115399211/228190682-04580f44-d41f-48a9-a9df-9a6695088c25.png)
 
 ### As per Instruction the login user data is stored in the Local Storage.
